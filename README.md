@@ -13,7 +13,7 @@ Si quieres contribuir a este proyecto, ¡te damos la bienvenida! Puedes abrir pr
 Si tienes alguna pregunta, sugerencia o consulta, no dudes en ponerte en contacto con el equipo de desarrollo a través de softhamck@gmail.com.
 
 Enlace al Repositorio
-[Repositorio de GitHub](https://github.com/softhamck/Project2.git)
+[Repositorio de GitHub](https://github.com/softhamck/Brogrammer.git)
 
 ## Autor
 - [softhAMCk](https://github.com/softhamck)
